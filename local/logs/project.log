@@ -1,0 +1,73 @@
+2018-04-27T02:43:02.835Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-27T02:43:02.844Z - normal: checking language setting...
+2018-04-27T02:43:02.844Z - normal: Language: zh
+2018-04-27T02:43:08.888Z - success: protocol editor-framework registered
+2018-04-27T02:43:08.889Z - success: protocol app registered
+2018-04-27T02:43:08.889Z - success: protocol theme registered
+2018-04-27T02:43:08.890Z - success: protocol packages registered
+2018-04-27T02:43:08.891Z - success: protocol unpack registerred
+2018-04-27T02:43:08.891Z - success: protocol disable-commonjs registerred
+2018-04-27T02:43:11.876Z - normal: failed to connect login server due to request timeout
+2018-04-27T02:43:11.881Z - normal: Check project D:\游戏架构\start_project
+2018-04-27T02:43:11.886Z - normal: Initializing Cocos2d
+2018-04-27T02:43:13.802Z - normal: Initializing Asset Database
+2018-04-27T02:43:14.002Z - success: protocol uuid registerred
+2018-04-27T02:43:14.003Z - success: protocol db registerred
+2018-04-27T02:43:14.003Z - success: protocol thumbnail registerred
+2018-04-27T02:43:14.004Z - normal: Loading editor/builtin packages
+2018-04-27T02:43:14.131Z - success: anysdk loaded
+2018-04-27T02:43:14.683Z - success: assets loaded
+2018-04-27T02:43:14.691Z - success: builder loaded
+2018-04-27T02:43:14.699Z - success: cocos-analytics loaded
+2018-04-27T02:43:14.711Z - success: console loaded
+2018-04-27T02:43:14.869Z - success: fb-instant-games loaded
+2018-04-27T02:43:14.880Z - success: hierarchy loaded
+2018-04-27T02:43:14.890Z - success: inspector loaded
+2018-04-27T02:43:14.895Z - success: keystore loaded
+2018-04-27T02:43:14.905Z - success: node-library loaded
+2018-04-27T02:43:14.911Z - success: package-asset loaded
+2018-04-27T02:43:14.918Z - success: preferences loaded
+2018-04-27T02:43:14.924Z - success: project-exporter loaded
+2018-04-27T02:43:15.004Z - success: project-importer loaded
+2018-04-27T02:43:15.011Z - success: project-settings loaded
+2018-04-27T02:43:15.018Z - success: ui-kit loaded
+2018-04-27T02:43:15.039Z - success: ui-grid loaded
+2018-04-27T02:43:15.051Z - success: scene loaded
+2018-04-27T02:43:15.055Z - success: sprite-editor loaded
+2018-04-27T02:43:15.065Z - success: store loaded
+2018-04-27T02:43:15.081Z - success: timeline loaded
+2018-04-27T02:43:15.081Z - normal: Loading builtin packages
+2018-04-27T02:43:15.101Z - success: asset-db-debugger loaded
+2018-04-27T02:43:15.107Z - success: code-editor loaded
+2018-04-27T02:43:15.114Z - success: color-picker loaded
+2018-04-27T02:43:15.121Z - success: package-manager loaded
+2018-04-27T02:43:15.138Z - success: sdkbox loaded
+2018-04-27T02:43:15.146Z - success: tester loaded
+2018-04-27T02:43:15.151Z - success: ui-kit-preview-extra loaded
+2018-04-27T02:43:15.156Z - success: ui-kit-preview loaded
+2018-04-27T02:43:15.165Z - success: ui-tree loaded
+2018-04-27T02:43:20.619Z - normal: Initializing project D:\游戏架构\start_project
+2018-04-27T02:43:20.626Z - normal: Loading packages
+2018-04-27T02:43:20.643Z - normal: Watching packages
+2018-04-27T02:43:20.717Z - normal: Run Application
+2018-04-27T02:43:23.608Z - success: preview server running at http://localhost:7456
+2018-04-27T02:43:29.915Z - error: { Error: connect ETIMEDOUT 211.151.21.150:443
+    at Object.exports._errnoException (util.js:1050:11)
+    at exports._exceptionWithHostPort (util.js:1073:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1097:14)
+  code: 'ETIMEDOUT',
+  errno: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '211.151.21.150',
+  port: 443 }
+    at D:\CocosCreator\resources\app.asar\share\login\lib\user.js:1:1441
+    at ClientRequest.Https.request.on.e (D:\CocosCreator\resources\app.asar\share\login\lib\network.js:1:873)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1283:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+2018-04-27T02:43:41.315Z - normal: 1.9.0
+2018-04-27T02:43:58.820Z - info: shutdown preview server
